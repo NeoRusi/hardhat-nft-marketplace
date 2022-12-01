@@ -45,7 +45,7 @@ Huge Shoutout to [Matt Durkin](https://twitter.com/mdurkin92) for his help on th
 
 ```
 git clone https://github.com/NeoRusi/hardhat-nft-marketplace
-cd hardhat-nextjs-nft-marketplace-fcc
+cd hardhat-nextjs-nft-marketplace
 yarn
 ```
 
