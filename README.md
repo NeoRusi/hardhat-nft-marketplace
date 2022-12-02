@@ -4,7 +4,7 @@
 
 <br/>
 <p align="center">
-<img src="../img/hero.png" width="500" alt="Hardhat NextJS Marketplace">
+<img src="https://github.com/PatrickAlphaC/hardhat-nft-marketplace-fcc/blob/main/img/hero.png" width="500" alt="Hardhat NextJS Marketplace">
 </a>
 </p>
 <br/>
