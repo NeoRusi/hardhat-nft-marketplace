@@ -31,6 +31,7 @@ module.exports = {
             blockConfirmations: 6,
             url: GOERLI_RPC_URL,
             accounts: [PRIVATE_KEY],
+            apiKey: ETHERSCAN_API_KEY,
         },
     },
     namedAccounts: {
@@ -47,7 +48,7 @@ module.exports = {
         currency: "USD",
         outputFile: "gas-report.txt",
         noColors: true,
-        // coinmarketcap: COINMARKETCAP_API_KEY,
+        coinmarketcap: COINMARKETCAP_API_KEY,
     },
     mocha: {
         timeout: 300000, // 300 seconds max
