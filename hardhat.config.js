@@ -34,6 +34,11 @@ module.exports = {
             apiKey: ETHERSCAN_API_KEY,
         },
     },
+    etherscan: {
+        apiKey: {
+            goerli: ETHERSCAN_API_KEY,
+        },
+    },
     namedAccounts: {
         deployer: {
             default: 0,
