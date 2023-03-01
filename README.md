@@ -108,5 +108,5 @@ yarn hardhat deploy --network goerli
 
 If you appreciated this, feel free to follow me or donate!
 
-ETH/Polygon/Avalanche/etc Address: 0x9680201d9c93d65a3603d2088d125e955c73BD65
+ETH/Polygon/Avalanche/etc Address: 0x2835fbB0e84ff44F7e25b66202B73E57E427cC28
 
